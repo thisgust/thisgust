@@ -19,7 +19,7 @@ Recruitability can go to hell I'm not working for a company
 - Temporuinary (videogame)
 - Drawing app
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/gustdev-c?cardType=level&theme=tokyonight&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/thisgust?cardType=level&theme=tokyonight&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 <!--
 **gustdev-c/gustdev-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
